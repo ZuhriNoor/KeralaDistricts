@@ -1,0 +1,29 @@
+body{
+    background-color: lightcyan;
+}
+
+.btn-primary{
+    background-color: black;
+
+}
+
+.btn-primary:hover{
+    background-color: #539165;
+    color: white;
+    box-shadow: 0px 0px 10px lightgreen;
+}
+
+.card{
+    text-align: justify;
+    margin: 10%;
+
+    height: 40rem;
+}
+
+.card-text{
+    height: 21rem;
+}
+
+.card-img-top{
+    height: 10rem;
+}

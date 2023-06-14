@@ -1,0 +1,42 @@
+
+
+body{
+    background-color: lightgray;
+}
+
+
+.heading1{
+    color: #4C3D3D;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 4rem;
+}
+
+.heading2{
+    color: #C07F00 ;
+    text-align: center;
+}
+
+hr{
+    border: 0px;
+    border-top: 6px dotted ;
+    margin: 3rem 0rem;
+    
+}
+
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border: 5px solid #4C3D3D;
+    margin-top: 40px;
+}
+
+span{
+    color: #C07F00;
+}
+
+body{
+    background-color: #FFF7D4;
+}
